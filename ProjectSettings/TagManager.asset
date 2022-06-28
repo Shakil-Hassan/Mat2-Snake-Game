@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Head
+  - Wall
+  - Food
+  - Body
+  - Snake
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Body
+  - Water
+  - UI
+  - Food
+  - Head
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bacground
+    uniqueID: 3933795585
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Over
+    uniqueID: 3341485917
+    locked: 0
+  - name: Border
+    uniqueID: 4076679549
+    locked: 0
